@@ -291,13 +291,13 @@
   ],
   "images": [
     {
-      "uri": "textures/T-34_metallicRoughness.png"
+      "uri": "T-34_metallicRoughness.png"
     },
     {
-      "uri": "textures/T-34_baseColor.png"
+      "uri": "T-34_baseColor.png"
     },
     {
-      "uri": "textures/T-34_normal.png"
+      "uri": "T-34_normal.png"
     }
   ],
   "materials": [
